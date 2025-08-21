@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/bggcreate/bggcreate/main/sukuna.gif" alt="Banner animado de Sukuna de Jujutsu Kaisen">
 </p>
-
 <!-- TÍTULO E INTRODUÇÃO -->
 
 <div align="center">
