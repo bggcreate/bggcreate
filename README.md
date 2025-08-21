@@ -4,7 +4,8 @@
   <img src="https://raw.githubusercontent.com/bggcreate/bggcreate/main/sukuna.gif" alt="https://imgur.com/gallery/sukuna-gif-GPGNaBl#/t/sukuna">
 </p>
 
-<!-- TÍTULO E INTRODUÇÃO -->
+<!-- TÍTULO E INTRODUÇÃO -->![sukuna gif - Imgur](https://github.com/user-attachments/assets/f0088174-097c-4355-91d3-60bdbc218d92)
+
 <div align="center">
   <h1 style="display: inline-block;">Alex Junior </h1>
 </div>
