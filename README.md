@@ -5,7 +5,6 @@
   <img src="https://raw.githubusercontent.com/bggcreate/bggcreate/main/sukuna.gif" alt="Banner animado de Sukuna de Jujutsu Kaisen">
 </p>
 
-<!-- 2. TÍTULO E INTRODUÇÃO -->
 <div align="center">
   <h1 style="display: inline-block;">Alex Junior // bggcreate</h1>
 </div>
@@ -16,7 +15,6 @@
 
 ---
 
-<!-- 3. ESTATÍSTICAS E GRÁFICO DE ATIVIDADE -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bggcreate&show_icons=true&include_all_commits=true&count_private=true&title_color=DC143C&icon_color=DC143C&text_color=FFFFFF&bg_color=0D1117&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bggcreate&layout=compact&langs_count=7&title_color=DC143C&icon_color=DC143C&text_color=FFFFFF&bg_color=0D1117&hide_border=true"/>
@@ -29,7 +27,6 @@
 
 ---
 
-<!-- 4. LISTA DE HABILIDADES -->
 <div align="center">
   <h3 style="color:#DC143C;">Linguagens & Frameworks</h3>
   <p>
@@ -62,7 +59,6 @@
 
 ---
 
-<!-- 5. CONTATO -->
 <div align="center">
   <a href="mailto:alexcoejunior@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-DC143C?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
