@@ -1,7 +1,7 @@
 <!-- Início -->
 
 <p align="center">
-  <img src="https://imgur.com/gallery/sukuna-gif-GPGNaBl#/t/sukuna">
+  <img src="https://raw.githubusercontent.com/bggcreate/bggcreate/main/sukuna.gif" alt="<blockquote class="imgur-embed-pub" lang="en" data-id="a/GPGNaBl"  ><a href="//imgur.com/a/GPGNaBl">sukuna gif</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>">
 </p>
 
 <!-- TÍTULO E INTRODUÇÃO -->
