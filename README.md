@@ -2,7 +2,7 @@
 
 <!-- 1. BANNER --->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bggcreate/bggcreate/main/sukuna.gif" alt="Banner animado de Sukuna de Jujutsu Kaisen">
+  <img src="https://raw.githubusercontent.com/bggcreate/bggcreate/main/sukuna.gif" alt="Banner animado de Sukuna" width="80%"/>
 </p>
 
 <div align="center">
