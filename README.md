@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <h1 style="display: inline-block;">Alex Junior // bggcreate</h1>
+  <h1 style="display: inline-block;">Alex Junior </h1>
 </div>
 <p align="center">
   Desenvolvedor e criativo de Florianópolis, SC, apaixonado pela intersecção entre <b>código</b> e <b>design</b>.
@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/SQL-DC143C?style=for-the-badge&logo=progate&logoColor=white" alt="SQL"/>
     <img src="https://img.shields.io/badge/PostgreSQL-DC143C?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   </p>
-  <h3 style="color:#DC143C;">Design & Multimídia</h3>
+  <h3 style="color:#DC143C;">Design & Mídia</h3>
   <p>
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-DC143C?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
     <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-DC143C?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Premiere"/>
