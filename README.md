@@ -4,8 +4,6 @@
   <img src="https://raw.githubusercontent.com/bggcreate/bggcreate/main/sukuna.gif" alt="Banner animado de Sukuna de Jujutsu Kaisen">
 </p>
 
-[sukuna gif - Imgur](https://github.com/user-attachments/assets/163233ab-1f02-4c57-adca-6b3971ef47d7)
-
 <!-- TÍTULO E INTRODUÇÃO -->
 
 <div align="center">
