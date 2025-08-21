@@ -1,7 +1,7 @@
 <!-- Início -->
 
 <p align="center">
-  <img src="https://i.imgur.com/D4s2xtA.gif" alt="Banner animado de Jujutsu Kaisen com a energia de Sukuna">
+  <img src="https://i.imgur.com/Am4254f.gif" alt="Banner animado de Akira com a moto deslizando">
 </p>
 
 <!-- TÍTULO E INTRODUÇÃO -->
