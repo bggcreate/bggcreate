@@ -1,7 +1,7 @@
 <!-- Início -->
 
 <p align="center">
-  <img src="https://i.imgur.com/Am4254f.gif" alt="Banner animado de Akira com a moto deslizando">
+  <img src="https://i.imgur.com/Am4254f.gif" alt="Banner animado de Akira com a moto deslizando](https://imgur.com/gallery/sukuna-gif-GPGNaBl#/t/sukuna)">
 </p>
 
 <!-- TÍTULO E INTRODUÇÃO -->
