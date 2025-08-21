@@ -1,5 +1,9 @@
 <!-- Início -->
 
+<p align="center">
+  <img src="https://i.imgur.com/D4s2xtA.gif" alt="Banner animado de Jujutsu Kaisen com a energia de Sukuna">
+</p>
+
 <!-- TÍTULO E INTRODUÇÃO -->
 <div align="center">
   <h1 style="display: inline-block;">Alex Junior </h1>
