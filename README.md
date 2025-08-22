@@ -5,13 +5,6 @@
   <img src="https://raw.githubusercontent.com/bggcreate/bggcreate/main/sukuna.gif" alt="Banner animado de Sukuna" width="80%"/>
 </p> --->
 
-<div align="center">
-  <h1 style="display: inline-block;">Alex Junior </h1>
-</div>
-<p align="center">
-  Desenvolvedor e criativo, apaixonado pela intersecção entre <b>código</b> e <b>design</b>.
-  Com uma base sólida em <b>Análise de Sistemas</b> e uma visão estratégica de <b>Marketing Digital</b>, meu objetivo é construir experiências digitais que não apenas funcionem perfeitamente, mas que também cativem e engajem o usuário.
-</p>
 
 ---
 
