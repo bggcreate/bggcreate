@@ -1,9 +1,9 @@
 <!-- Início do Perfil "Red Blood" - Versão Final com Sukuna -->
 
-<!-- 1. BANNER --->
+<!-- 1. BANNER 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bggcreate/bggcreate/main/sukuna.gif" alt="Banner animado de Sukuna" width="80%"/>
-</p>
+</p> --->
 
 <div align="center">
   <h1 style="display: inline-block;">Alex Junior </h1>
